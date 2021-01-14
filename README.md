@@ -1,4 +1,3 @@
 # MachineLearningBasics_tutorial
-code used for Data Science Seminar talk "Machine Learning Basics"
 
-This code provides basic uses of routines in Python's scikit-learn machine learning package.
+This repo contains a jupyter notebook which provides uses of commonly used routines in Python's scikit-learn machine learning package.
